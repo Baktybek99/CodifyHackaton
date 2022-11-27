@@ -12,7 +12,7 @@
 
 Далеей пишем пароль и вас будет приветствовать главная страница
 
-![alt text](https://github.com/Baktybek99/CodifyHackaton/blob/main/Innovative_Hospital/Innovative_Hospital/wwwroot/Files/Основная страница.png?raw=true)
+![alt text](https://github.com/Baktybek99/CodifyHackaton/blob/main/Innovative_Hospital/Innovative_Hospital/wwwroot/Files/Страница.png?raw=true)
 
 Стоит учесть что у каждой роли своя страничка
 И разный функионал
